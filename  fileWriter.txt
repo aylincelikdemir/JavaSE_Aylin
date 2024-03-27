@@ -1,0 +1,4 @@
+Merhaba file!abc 
+
+abc
+nextline!
