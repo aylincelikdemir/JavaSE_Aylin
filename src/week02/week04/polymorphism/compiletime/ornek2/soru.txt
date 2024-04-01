@@ -1,0 +1,2 @@
+calculator classı oluşturun içerisinde sum merhodları overloaded yapılmış şekilde olsun. Bu calculator classının sum methodlarını başka bir classdan
+başka bir classdan (mainden) çağırınız.
